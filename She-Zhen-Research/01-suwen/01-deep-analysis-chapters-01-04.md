@@ -26,7 +26,7 @@
 - Unschuld, *Huang Di Nei Jing Ling Shu: The Ancient Classic on Needle Therapy* (2016).
 - סקירה היסטורית: https://www.historiamedica.org/sources/huangdi-neijing/
 - מחקר Cambridge על טקסטים רפואיים שנחפרו והתהוות הקאנון: https://www.cambridge.org/core/elements/medicine-and-healing-in-ancient-east-asia/63BDA5E61EEE44FE0AC23712789C9321
-- סקירת תרגומים: https://www.sciencedirect.com/science/article/pii/S2095-4964(17)60310-8
+- סקירת תרגומים: https://www.sciencedirect.com/science/article/pii/S2095496417603108
 
 **מסקנה מתודולוגית:** אין "כתב יד מקורי" יחיד שניתן להעמיד מול כל המהדורות. הסו־ון והלינג־שו הם קורפוסים שעברו איסוף, עריכה, מסירה והערות לאורך דורות. בכל ציטוט סופי נרשום חיבור, פרק, נוסח/מהדורה, והאם המילים הן גוף הטקסט או הערת פרשן.
 
