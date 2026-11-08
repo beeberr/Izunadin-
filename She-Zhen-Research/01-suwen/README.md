@@ -93,25 +93,18 @@
 
 
 ## מחקר עומק והשוואת מקורות
-[סיכום עומק והשוואת עדים טקסטואליים — פרקים 1–4](01-deep-analysis-chapters-01-04.md). זהו מקבץ ראשון; הוא אינו מעיד שיתר 77 פרקי סו־ון הושלמו.
 
-- [מחקר עומק — פרקים 5–7 והשוואת מקורות](02-deep-analysis-chapters-05-07.md)
+- [פרקים 1–4](01-deep-analysis-chapters-01-04.md)
+- [פרקים 5–7](02-deep-analysis-chapters-05-07.md)
+- [פרקים 8–11](03-deep-analysis-chapters-08-11.md)
+- [פרקים 12–15](04-deep-analysis-chapters-12-15.md)
+- [פרקים 16–19](05-deep-analysis-chapters-16-19.md)
+- [פרקים 20–23](06-deep-analysis-chapters-20-23.md)
+- [פרקים 24–27](07-deep-analysis-chapters-24-27.md)
+- [פרקים 28–31](08-deep-analysis-chapters-28-31.md)
+- [פרקים 32–35](09-deep-analysis-chapters-32-35.md)
+- [פרקים 36–39](10-deep-analysis-chapters-36-39.md)
+- [פרקים 40–43](11-deep-analysis-chapters-40-43.md)
+- [פרקים 44–47](12-deep-analysis-chapters-44-47.md)
 
-- [מחקר עומק — פרקים 8–11 והשוואת מקורות](03-deep-analysis-chapters-08-11.md)
-
-- [מחקר עומק — פרקים 12–15 והשוואת מקורות](04-deep-analysis-chapters-12-15.md)
-
-- [מחקר עומק — פרקים 16–19 והשוואת מקורות](05-deep-analysis-chapters-16-19.md)
-
-- [מחקר עומק — פרקים 20–23 והשוואת מקורות](06-deep-analysis-chapters-20-23.md)
-
-- [מחקר עומק — פרקים 24–27 והשוואת מקורות](07-deep-analysis-chapters-24-27.md)
-
-- [מחקר עומק — פרקים 28–31 והשוואת מקורות](08-deep-analysis-chapters-28-31.md)
-
-
-## מקבץ מחקר עומק נוסף
-- [מחקר עומק והצלבת מקורות — פרקים 32–35](09-deep-analysis-chapters-32-35.md)
-
-- [מחקר עומק והצלבת מקורות — פרקים 36–39](10-deep-analysis-chapters-36-39.md)
-\n\n## מקבצי מחקר עומק נוספים\n\n- [פרקים 28–31](08-deep-analysis-chapters-28-31.md)\n- [פרקים 32–35](09-deep-analysis-chapters-32-35.md)\n- [פרקים 36–39](10-deep-analysis-chapters-36-39.md)\n- [פרקים 40–43](11-deep-analysis-chapters-40-43.md)\n\nהסטטוס "סוכם לעומק" מציין שקיים סיכום המבוסס על קריאת נוסח דיגיטלי והצלבת מקורות זמינים; אין פירושו שהושלמה ביקורת טקסטואלית מול כל כתבי היד והמהדורות.\n\n\n- [מחקר עומק והצלבת מקורות — פרקים 44–47](12-deep-analysis-chapters-44-47.md)\n
+הסטטוס "סוכם לעומק" מציין שקיים סיכום המבוסס על קריאת נוסח דיגיטלי והצלבת מקורות זמינים; אין פירושו שהושלמה ביקורת טקסטואלית מול כל כתבי היד והמהדורות.
