@@ -38,3 +38,5 @@
 - [מחקר עומק והשוואת מקורות — סו־ון פרקים 5–7](01-suwen/02-deep-analysis-chapters-05-07.md)
 - [מחקר עומק והשוואת מקורות — סו־ון פרקים 8–11](01-suwen/03-deep-analysis-chapters-08-11.md)
 - [מחקר עומק והשוואת מקורות — סו־ון פרקים 12–15](01-suwen/04-deep-analysis-chapters-12-15.md)
+
+- [מחקר עומק והשוואת מקורות — סו־ון פרקים 16–19](01-suwen/05-deep-analysis-chapters-16-19.md)
