@@ -15,6 +15,7 @@
 - [פרוטוקול הדמיה משולבת — צילום רגיל, וידאו ותרמוגרפיה](06-clinical-research/04-multimodal-video-and-thermal-tongue-imaging-protocol.md)
 - [העמקה מחקרית בתרמוגרפיה אינפרא-אדומה של הלשון ב-TCM](06-clinical-research/05-deep-review-infrared-thermography-tcm-tongue.md)
 - [מחקר המשך: לשונות דומות חזותית ותגובות תרמיות שונות](06-clinical-research/06-matched-visual-phenotype-thermal-response-study.md)
+- [סקירת ספרות סינית: תרמוגרפיה של הלשון ודפוסי TCM](06-clinical-research/07-chinese-literature-review-tongue-thermography.md)
 
 ההשלמה מתייחסת לסיכומי עומק ראשוניים ולסריקה ראשונית של מונחים. היא **אינה** מהדורה ביקורתית, אינה קולציה מלאה של כתבי יד/עדים, ואינה אישור שכל פרשנות או תרגום סופיים. שלב ההמשך הוא בדיקת נוסחים ופרשנים, ארגון קטלוג סימנים מובנה והצלבה שיטתית עם מחקר מודרני.
 
