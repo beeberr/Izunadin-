@@ -8,6 +8,8 @@
 - קטלוג אזכורי לשון ישירים ועקיפים, מחקר תרמוגרפיה/וידאו, מסגרת מחקר קליני, ביבליוגרפיה וקישורים.
 
 ## ניווט מהיר
+
+- [קטלוג מובנה של 11 ממצאי לשון ישירים — JSON](database/direct-tongue-findings.json)
 - [מפתח כל 162 הפרקים](00-chapter-index.md)
 - [קטלוג מובנה בפורמט JSON — 162 רשומות](database/chapter-catalog.json)
 - [תקצירי 81 פרקי סו־ון](01-suwen/81-chapter-summaries.md)
