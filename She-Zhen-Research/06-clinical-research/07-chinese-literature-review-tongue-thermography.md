@@ -276,3 +276,14 @@ https://doi.org/10.1038/s41598-026-53059-5
 12. Jezierska K et al. Age-related patterns in tongue thermal response to cold stimulus assessed by infrared thermography. Scientific Reports. 2026;16:22114. DOI: 10.1038/s41598-026-53059-5.
 
 ---
+
+
+## מקורות משלימים שאותרו בהמשך המחקר
+
+- Wang ZY, Zhang ZF, Ying J. 2005. Infrared technology applied in tongue inspection of traditional Chinese medicine. DOI: 10.3736/jcim20050424; PMID: 16009120. https://pubmed.ncbi.nlm.nih.gov/16009120/ — סקירה מוקדמת; התקציר/פרטי הרשומה זמינים, טקסט מלא טרם אומת.
+- Xie H, Zhang Y. 2018. Relationship between dynamic infrared thermal images and blood perfusion rate of the tongue in anaemia patients. Infrared Physics & Technology 89:27–34. DOI: 10.1016/j.infrared.2017.12.011. https://doi.org/10.1016/j.infrared.2017.12.011 — 62 חולי אנמיה ו-70 ביקורת; שילוב IRT דינמי ו-Laser Doppler.
+- Wziątek-Kuczmik D et al. 2023. Thermal Imaging of Tongue Surface as a Prognostic Method in the Diagnosis of General Diseases—Preliminary Study. J Clin Med 12(21):6860. DOI: 10.3390/jcm12216860. https://pmc.ncbi.nlm.nih.gov/articles/PMC10649427/ — מחקר היתכנות בקבוצות בריאים ומטופלים לאחר קירור חלל הפה.
+- Jezierska K et al. 2026. Infrared thermography of the tongue in systemic lupus erythematosus: a pilot study of thermal response to cold stimulation. Rheumatol Int 46:184. DOI: 10.1007/s00296-026-06229-7. https://doi.org/10.1007/s00296-026-06229-7 — 10 חולי SLE ו-106 ביקורת; מדדי התאוששות דינמיים.
+- Lopes LKM et al. 2024. The influence of different cheek and lip retractors and emissivity on intraoral infrared thermography. Dentomaxillofac Radiol 53(6):417–422. DOI: 10.1093/dmfr/twae025. https://pmc.ncbi.nlm.nih.gov/articles/PMC11358626/ — מחקר סמוך על תוקף מדידה תוך-פומית, לא מחקר לשון ישיר.
+
+לניתוח מלא של השיטות, התוצאות, ההסתייגויות והשלכות הפרוטוקול ראו [08-dynamic-thermography-perfusion-and-measurement-validity.md](08-dynamic-thermography-perfusion-and-measurement-validity.md).
