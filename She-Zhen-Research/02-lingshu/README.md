@@ -33,3 +33,5 @@
 - [מחקר עומק — פרקים 9–12](03-deep-analysis-chapters-09-12.md)
 
 - [מחקר עומק — פרקים 13–16](04-deep-analysis-chapters-13-16.md)
+
+- [מחקר עומק — פרקים 17–20](05-deep-analysis-chapters-17-20.md)
