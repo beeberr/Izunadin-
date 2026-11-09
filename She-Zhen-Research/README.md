@@ -17,6 +17,8 @@
 - [מחקר המשך: לשונות דומות חזותית ותגובות תרמיות שונות](06-clinical-research/06-matched-visual-phenotype-thermal-response-study.md)
 - [סקירת ספרות סינית: תרמוגרפיה של הלשון ודפוסי TCM](06-clinical-research/07-chinese-literature-review-tongue-thermography.md)
 - [מחקר המשך: תרמוגרפיה דינמית, פרפוזיה ותוקף המדידה](06-clinical-research/08-dynamic-thermography-perfusion-and-measurement-validity.md)
+- [שלב 4 — מיון אזכורי הלשון לפי שלוש קטגוריות](03-tongue-findings/03-stage-4-categorized-tongue-signs.md)
+- [קישורים ומקורות שהופיעו בשיחה — 9 בנובמבר 2026](05-bibliography/02-links-shared-in-conversation-2026-11-09.md)
 
 ההשלמה מתייחסת לסיכומי עומק ראשוניים ולסריקה ראשונית של מונחים. היא **אינה** מהדורה ביקורתית, אינה קולציה מלאה של כתבי יד/עדים, ואינה אישור שכל פרשנות או תרגום סופיים. שלב ההמשך הוא בדיקת נוסחים ופרשנים, ארגון קטלוג סימנים מובנה והצלבה שיטתית עם מחקר מודרני.
 
