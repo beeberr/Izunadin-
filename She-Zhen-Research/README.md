@@ -11,6 +11,7 @@
 - [העמקה מחקרית באזכורי הלשון בנייג'ינג — שלב א׳](03-tongue-findings/02-deepening-direct-tongue-chapters-phase-1.md)
 - [תשתית למחקר קליני אקדמי באבחון הלשון — מסגרת וטיוטת פרוטוקול](06-clinical-research/01-clinical-research-framework-and-protocol-v1.md)
 - [סקירת ספרות שיטתית — פרוטוקול ומפת ראיות ראשונית](06-clinical-research/02-systematic-literature-review-protocol-and-evidence-map.md)
+- [מסגרת מושגית למחקר — TCM תחילה, מדידה מודרנית כתמיכה ואבחון לשון דינמי](06-clinical-research/03-tcm-first-conceptual-framework-and-dynamic-tongue-research.md)
 
 ההשלמה מתייחסת לסיכומי עומק ראשוניים ולסריקה ראשונית של מונחים. היא **אינה** מהדורה ביקורתית, אינה קולציה מלאה של כתבי יד/עדים, ואינה אישור שכל פרשנות או תרגום סופיים. שלב ההמשך הוא בדיקת נוסחים ופרשנים, ארגון קטלוג סימנים מובנה והצלבה שיטתית עם מחקר מודרני.
 
