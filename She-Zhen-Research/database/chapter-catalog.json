@@ -1,0 +1,1486 @@
+{
+  "title": "She-Zhen Research Database",
+  "language": "he",
+  "classical_corpus": "Huangdi Neijing",
+  "chapter_count": 162,
+  "counts": {
+    "suwen": 81,
+    "lingshu": 81
+  },
+  "generated_at": "2026-11-09",
+  "chapters": [
+    {
+      "book": "suwen",
+      "number": 1,
+      "title_zh": "上古天真论",
+      "title_he": "עקרונות החיים הקדומים",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 2,
+      "title_zh": "四气调神大论",
+      "title_he": "ויסות הרוח לפי ארבע העונות",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 3,
+      "title_zh": "生气通天论",
+      "title_he": "צ'י החיים והקשר לשמים",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 4,
+      "title_zh": "金匮真言论",
+      "title_he": "דברי האמת מהארון המוזהב",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 5,
+      "title_zh": "阴阳应象大论",
+      "title_he": "התאמת יין־יאנג לתופעות",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 6,
+      "title_zh": "阴阳离合论",
+      "title_he": "ההיפרדות וההתאחדות של יין ויאנג",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 7,
+      "title_zh": "阴阳别论",
+      "title_he": "הבחנות בין יין ויאנג",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 8,
+      "title_zh": "灵兰秘典论",
+      "title_he": "הדיון הקלאסי הסודי",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 9,
+      "title_zh": "六节藏象论",
+      "title_he": "ששת המחזורים והדימוי התפקודי של האיברים",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 10,
+      "title_zh": "五藏生成",
+      "title_he": "היווצרות חמשת האיברים",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 11,
+      "title_zh": "五藏别论",
+      "title_he": "הבחנות בין חמשת האיברים",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 12,
+      "title_zh": "异法方宜论",
+      "title_he": "שיטות טיפול לפי אזורים",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 13,
+      "title_zh": "移精变气论",
+      "title_he": "שינוי הצ'י והעברת הרוח",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 14,
+      "title_zh": "汤液醪醴论",
+      "title_he": "מרקחות, משקאות ויין רפואי",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 15,
+      "title_zh": "玉版论要",
+      "title_he": "עיקרי לוח הירקן",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 16,
+      "title_zh": "诊要经终论",
+      "title_he": "עקרונות אבחון וסיום המרידיאנים",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 17,
+      "title_zh": "脉要精微论",
+      "title_he": "עקרונות הדופק והדקויות",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 18,
+      "title_zh": "平人气象论",
+      "title_he": "סימני הדופק והאדם הבריא",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 19,
+      "title_zh": "玉机真藏论",
+      "title_he": "מנגנון הירקן והאיברים הפנימיים",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 20,
+      "title_zh": "三部九候论",
+      "title_he": "שלושת האזורים ותשעת המדדים",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 21,
+      "title_zh": "经脉别论",
+      "title_he": "דיון נפרד במרידיאנים",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 22,
+      "title_zh": "藏气法时论",
+      "title_he": "צ'י האיברים לפי העונות",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 23,
+      "title_zh": "宣明五气",
+      "title_he": "פירוט חמשת סוגי הצ'י",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 24,
+      "title_zh": "血气形志",
+      "title_he": "דם, צ'י, מבנה וכוונה",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 25,
+      "title_zh": "宝命全形论",
+      "title_he": "שמירת החיים והגנת הצורה",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 26,
+      "title_zh": "八正神明论",
+      "title_he": "שמונת הזמנים ועקרונות הטיפול",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 27,
+      "title_zh": "离合真邪论",
+      "title_he": "היחסים בין צ'י אמיתי לפתוגני",
+      "research_status": "סיכום עומק קיים; אימות ביקורתי נוסף נדרש",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 28,
+      "title_zh": "通评虚实论",
+      "title_he": "דיון כולל בעודף ובחסר",
+      "research_status": "סוכם לעומק; לא נמצא אזכור לשון ישיר",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 29,
+      "title_zh": "太阴阳明论",
+      "title_he": "טאי־יין ויאנג־מינג",
+      "research_status": "סוכם לעומק; גרון ולוע בלבד",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 30,
+      "title_zh": "阳明脉解",
+      "title_he": "הסבר מרידיאן יאנג־מינג",
+      "research_status": "סוכם לעומק; לא נמצא אזכור לשון ישיר",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 31,
+      "title_zh": "热论",
+      "title_he": "דיון במחלות חום",
+      "research_status": "סוכם לעומק; נמצא 舌本 ו־舌干",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 32,
+      "title_zh": "刺热论",
+      "title_he": "דיקור במחלות חום",
+      "research_status": "סוכם לעומק; נמצא 舌上黄 — צהוב על הלשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 33,
+      "title_zh": "评热病论",
+      "title_he": "דיון והערכה של מחלות חום",
+      "research_status": "סוכם לעומק; נמצא 舌干 — לשון יבשה",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 34,
+      "title_zh": "逆调论",
+      "title_he": "ויסות הפוך/לא תקין",
+      "research_status": "סוכם לעומק; לא נמצא אזכור לשון ישיר",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 35,
+      "title_zh": "疟论",
+      "title_he": "דיון במלריה/מחזורי צמרמורת וחום",
+      "research_status": "סוכם לעומק; לא נמצא אזכור לשון ישיר",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 36,
+      "title_zh": "刺疟论",
+      "title_he": "דיקור במלריה",
+      "research_status": "סוכם לעומק; לא נמצא אזכור לשון ישיר",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 37,
+      "title_zh": "气厥论",
+      "title_he": "הפרעות ועליות/היפוכים של צ'י",
+      "research_status": "סוכם לעומק; 口糜 — ממצא רירית פה, לא לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 38,
+      "title_zh": "咳论",
+      "title_he": "דיון בשיעול",
+      "research_status": "סוכם לעומק; סימני גרון/רוק, לא לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 39,
+      "title_zh": "举痛论",
+      "title_he": "סיבות וסוגים של כאב",
+      "research_status": "סוכם לעומק; צבעי פנים ותשאול, לא לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 40,
+      "title_zh": "腹中论",
+      "title_he": "דיון במחלות הבטן",
+      "research_status": "סוכם לעומק; 唾血 ו־喑 — פה/דיבור, לא לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 41,
+      "title_zh": "刺腰痛论",
+      "title_he": "דיקור לכאב גב תחתון",
+      "research_status": "סוכם לעומק; נמצא 舌卷不能言 — תנועה/תפקוד לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 42,
+      "title_zh": "风论",
+      "title_he": "דיון ברוח",
+      "research_status": "סוכם לעומק; פה/גרון ודיבור, ללא 舌 ישיר",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 43,
+      "title_zh": "痹论",
+      "title_he": "דיון בתסמונות Bi",
+      "research_status": "סוכם לעומק; 嗌干 — גרון/לוע, ללא 舌 ישיר",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 44,
+      "title_zh": "痿论",
+      "title_he": "דיון בחולשה/דלדול",
+      "research_status": "סוכם לעומק; 口苦 ויובש/צמא, ללא 舌 ישיר",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 45,
+      "title_zh": "厥论",
+      "title_he": "דיון בהיפוך/קור בגפיים",
+      "research_status": "סוכם לעומק; 口干 וגרון/לוע, ללא 舌 ישיר",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 46,
+      "title_zh": "病能论",
+      "title_he": "יכולות ותבניות מחלה",
+      "research_status": "סוכם לעומק; דופק ואבחנה מבדלת, ללא 舌 ישיר",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 47,
+      "title_zh": "奇病论",
+      "title_he": "מחלות חריגות",
+      "research_status": "סוכם לעומק; 舌本 בהקשר של דיבור, לא סימן חזותי",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 48,
+      "title_zh": "大奇论",
+      "title_he": "דיון בממצאים חריגים",
+      "research_status": "סוכם לעומק; 舌转 — תנועת לשון, לא סימן חזותי",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 49,
+      "title_zh": "脉解",
+      "title_he": "הסבר הדופק",
+      "research_status": "סוכם לעומק; 喑/喑俳 ו־嗌干, ללא סימן חזותי",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 50,
+      "title_zh": "刺要论",
+      "title_he": "עקרונות חיוניים של דיקור",
+      "research_status": "סוכם לעומק; אין אזכור לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 51,
+      "title_zh": "刺齐论",
+      "title_he": "עומק/מידת הדיקור",
+      "research_status": "סוכם לעומק; אין אזכור לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 52,
+      "title_zh": "刺禁论",
+      "title_he": "איסורים בדיקור",
+      "research_status": "סוכם לעומק; 舌下中脉 ו־舌难以言",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 53,
+      "title_zh": "刺志论",
+      "title_he": "כוונה ועקרונות בדיקור",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 54,
+      "title_zh": "针解",
+      "title_he": "הסבר המחט",
+      "research_status": "סוכם לעומק; קול ופתחים כלליים, ללא 舌",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 55,
+      "title_zh": "长刺节论",
+      "title_he": "שיטות דיקור ממושכות/עמוקות",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 56,
+      "title_zh": "皮部论",
+      "title_he": "אזורי העור",
+      "research_status": "סוכם לעומק; צבעי כלי דם בעור, לא לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 57,
+      "title_zh": "经络论",
+      "title_he": "מרידיאנים ורשתות",
+      "research_status": "סוכם לעומק; צבעי 经/络, לא לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 58,
+      "title_zh": "气穴论",
+      "title_he": "נקודות צ'י",
+      "research_status": "סוכם לעומק; 喑门 כשם נקודה, לא סימן לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 59,
+      "title_zh": "气府论",
+      "title_he": "אזורי/מאגרי צ'י",
+      "research_status": "סוכם לעומק; 足少阴舌下 כמיקום אנטומי",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 60,
+      "title_zh": "骨空论",
+      "title_he": "חללי העצמות",
+      "research_status": "סוכם לעומק; גרון ואתרים סמוכים, ללא 舌",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 61,
+      "title_zh": "水热穴论",
+      "title_he": "נקודות מים וחום",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 62,
+      "title_zh": "调经论",
+      "title_he": "ויסות המרידיאנים",
+      "research_status": "סוכם לעומק; 九窍 כללי, ללא אזכור לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 63,
+      "title_zh": "缪刺论",
+      "title_he": "דיקור נגדי",
+      "research_status": "סוכם לעומק; 舌卷 — תנועת/מנח לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 64,
+      "title_zh": "四时刺逆从论",
+      "title_he": "דיקור בהתאם/בניגוד לעונות",
+      "research_status": "סוכם לעומק; וריאנטים בהשוואה לפרקים 16 ו־52",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 65,
+      "title_zh": "标本病传论",
+      "title_he": "שורש, ענף והעברת מחלה",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 66,
+      "title_zh": "天元纪大论",
+      "title_he": "העיקרון הגדול של המקור השמימי",
+      "research_status": "סוכם לעומק; מסגרת קוסמולוגית, ללא לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 67,
+      "title_zh": "五运行大论",
+      "title_he": "חמש התנועות",
+      "research_status": "סוכם לעומק; צבעים וטעמים קוסמולוגיים, לא לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 68,
+      "title_zh": "六微旨大论",
+      "title_he": "ששת העקרונות העדינים",
+      "research_status": "סוכם לעומק; לא נמצא סימן פה/לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 69,
+      "title_zh": "气交变大论",
+      "title_he": "השינויים במפגש הצ'י",
+      "research_status": "סוכם לעומק; 口疮 ו־暴喑, ללא 舌",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 70,
+      "title_zh": "五常政大论",
+      "title_he": "חמשת דפוסי הממשל הקבועים",
+      "research_status": "סוכם לעומק; 其主舌 ו־其主口 — שיוך מערכתי",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 71,
+      "title_zh": "六元正纪大论",
+      "title_he": "המחזורים התקניים של ששת המקורות",
+      "research_status": "סוכם לעומק; תסמיני לוע, ללא 舌",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 72,
+      "title_zh": "刺法论",
+      "title_he": "שיטות דיקור",
+      "research_status": "נבדק; 遗篇 — מעמד טקסטואלי שנוי במחלוקת; 舌下津",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 73,
+      "title_zh": "本病论",
+      "title_he": "שורשי המחלה",
+      "research_status": "נבדק; 遗篇 — מעמד טקסטואלי שנוי במחלוקת; לוע ורוק",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 74,
+      "title_zh": "至真要大论",
+      "title_he": "העקרונות העליונים של האמת",
+      "research_status": "סוכם לעומק; 舌本强 — נוקשות שורש הלשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 75,
+      "title_zh": "著至教论",
+      "title_he": "הצגת ההוראה הנעלה",
+      "research_status": "סוכם לעומק; גרון/לוע, ללא סימן לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 76,
+      "title_zh": "示从容论",
+      "title_he": "הצגת שיקול דעת רגוע",
+      "research_status": "סוכם לעומק; 涕唾 כנוזלי גוף, לא סימן לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 77,
+      "title_zh": "疏五过论",
+      "title_he": "חמש טעויות באבחון/טיפול",
+      "research_status": "סוכם לעומק; עקרונות אבחון, ללא סימן לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 78,
+      "title_zh": "征四失论",
+      "title_he": "ארבעה כשלים",
+      "research_status": "סוכם לעומק; עקרונות אבחון, ללא סימן לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 79,
+      "title_zh": "阴阳类论",
+      "title_he": "סיווגי יין ויאנג",
+      "research_status": "סוכם לעומק; 喉咽于燥 — יובש לוע",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 80,
+      "title_zh": "方盛衰论",
+      "title_he": "שגשוג ודעיכה של הכיוונים/הדפוסים",
+      "research_status": "סוכם לעומק; אבחון רב־ממדי, ללא לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "suwen",
+      "number": 81,
+      "title_zh": "解精微论",
+      "title_he": "הסבר הדקויות של התמצית",
+      "research_status": "סוכם לעומק; דמעות ונזלת, ללא לשון",
+      "summary_path": "01-suwen/81-chapter-summaries.md",
+      "deep_analysis_index": "01-suwen/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 1,
+      "title_zh": "九针十二原",
+      "title_he": "תשע המחטים ושנים־עשר מקורות",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 2,
+      "title_zh": "本输",
+      "title_he": "נקודות ההובלה הבסיסיות",
+      "research_status": "סוכם לעומק; לסת/פה/גרון, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 3,
+      "title_zh": "小针解",
+      "title_he": "הסבר המחט הקטנה",
+      "research_status": "סוכם לעומק; קול/דיבור, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 4,
+      "title_zh": "邪气藏府病形",
+      "title_he": "צ'י פתוגני, איברים וצורות מחלה",
+      "research_status": "סוכם לעומק; 唇舌而为味 — תפקוד הטעם",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 5,
+      "title_zh": "根结",
+      "title_he": "שורש וקשר",
+      "research_status": "סוכם לעומק; 廉泉 — נקודת גרון, לא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 6,
+      "title_zh": "寿夭刚柔",
+      "title_he": "אריכות ימים וקיצורם, קשיות ורכות",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 7,
+      "title_zh": "官针",
+      "title_he": "שיטות המחט",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 8,
+      "title_zh": "本神",
+      "title_he": "הרוח הבסיסית",
+      "research_status": "סוכם לעומק; נפש/איברים, ללא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 9,
+      "title_zh": "终始",
+      "title_he": "התחלה וסיום",
+      "research_status": "סוכם לעומק; 重舌, 舌柱, 舌卷",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 10,
+      "title_zh": "经脉",
+      "title_he": "המרידיאנים",
+      "research_status": "סוכם לעומק; 舌本强/痛, 连舌本、散舌下",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 11,
+      "title_zh": "经别",
+      "title_he": "מסלולים נפרדים של המרידיאנים",
+      "research_status": "סוכם לעומק; 系舌本、贯舌中",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 12,
+      "title_zh": "经水",
+      "title_he": "המרידיאנים והמים",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 13,
+      "title_zh": "经筋",
+      "title_he": "מסלולי הגידים",
+      "research_status": "סוכם לעומק; 结于舌本、系舌本、舌卷",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 14,
+      "title_zh": "骨度",
+      "title_he": "מדידות העצמות",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 15,
+      "title_zh": "五十营",
+      "title_he": "חמישים מחזורי תנועה",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 16,
+      "title_zh": "营气",
+      "title_he": "הצ'י המזין",
+      "research_status": "סוכם לעומק; מקור דיגיטלי אחד משובש, הצלבה עם נוסחים אחרים",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 17,
+      "title_zh": "脉度",
+      "title_he": "מדדי המרידיאנים/הדופק",
+      "research_status": "סוכם לעומק; 心气通于舌 — חישת חמשת הטעמים",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 18,
+      "title_zh": "营卫生会",
+      "title_he": "מפגש הצ'י המזין וההגנתי",
+      "research_status": "סוכם לעומק; מסלול המחמם העליון מגיע ללשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 19,
+      "title_zh": "四时气",
+      "title_he": "צ'י ארבע העונות",
+      "research_status": "סוכם לעומק; 口苦 ו־呕苦, ללא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 20,
+      "title_zh": "五邪",
+      "title_he": "חמשת הגורמים הפתוגניים",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון/פה; מקור דיגיטלי משובש",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 21,
+      "title_zh": "寒热病",
+      "title_he": "מחלות קור וחום",
+      "research_status": "סוכם לעומק; 舌本出血、舌纵、涎下",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 22,
+      "title_zh": "癫狂病",
+      "title_he": "הפרעות מאניה וטירוף",
+      "research_status": "סוכם לעומק; 舌下少阴 — אתר טיפול לא ודאי",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 23,
+      "title_zh": "热病",
+      "title_he": "מחלות חום",
+      "research_status": "סוכם לעומק; 舌本烂、舌卷、口中干",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 24,
+      "title_zh": "厥病",
+      "title_he": "מחלות היפוך/קור קיצוני",
+      "research_status": "סוכם לעומק; 涎出 בהקשר עיכול, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 25,
+      "title_zh": "病本",
+      "title_he": "שורש המחלה",
+      "research_status": "סוכם לעומק;标本 — ללא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 26,
+      "title_zh": "杂病",
+      "title_he": "מחלות שונות",
+      "research_status": "סוכם לעומק; שפתיים/פה/גרון ודיבור, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 27,
+      "title_zh": "周痹",
+      "title_he": "תסמונת Bi מפושטת",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון/פה; מקור דיגיטלי משובש",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 28,
+      "title_zh": "口问",
+      "title_he": "שאלות על הפה",
+      "research_status": "סוכם לעומק; 自啮舌、涎下、廉泉开",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 29,
+      "title_zh": "师传",
+      "title_he": "מסורת המורה",
+      "research_status": "סוכם לעומק; 视唇舌好恶 — תצפית בשפתיים ובלשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 30,
+      "title_zh": "决气",
+      "title_he": "הבחנה בין סוגי הצ'י/נוזלים",
+      "research_status": "סוכם לעומק; נוזלי גוף, ללא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 31,
+      "title_zh": "肠胃",
+      "title_he": "המעיים והקיבה",
+      "research_status": "סוכם לעומק; מדידות אנטומיות של הלשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 32,
+      "title_zh": "平人绝谷",
+      "title_he": "אדם בריא ללא מזון",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 33,
+      "title_zh": "海论",
+      "title_he": "דיון בימים/מאגרי הצ'י",
+      "research_status": "סוכם לעומק; 气少不足以言 — קול/דיבור",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 34,
+      "title_zh": "五乱",
+      "title_he": "חמש הפרעות",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 35,
+      "title_zh": "胀论",
+      "title_he": "דיון בנפיחות",
+      "research_status": "סוכם לעומק; 口中苦 ונתיבי נוזלים",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 36,
+      "title_zh": "五癃津液别",
+      "title_he": "חמש חסימות והבדלי נוזלים",
+      "research_status": "סוכם לעומק; 唾 כרוק, לא לחות לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 37,
+      "title_zh": "五阅五使",
+      "title_he": "חמשת המראות וחמשת השליחים",
+      "research_status": "סוכם לעומק; 舌者心之官、舌卷短",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 38,
+      "title_zh": "逆顺肥瘦",
+      "title_he": "הפוך וישר, מלא ורזה",
+      "research_status": "סוכם לעומק; מבנה שפתיים, לא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 39,
+      "title_zh": "血络论",
+      "title_he": "כלי דם וערוצי דם",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 40,
+      "title_zh": "阴阳清浊",
+      "title_he": "יין ויאנג, צלול ועכור",
+      "research_status": "סוכם לעומק; צ'י עולה לפה, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 41,
+      "title_zh": "阴阳系日月",
+      "title_he": "יין ויאנג והקשר לימים ולירח",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 42,
+      "title_zh": "病传",
+      "title_he": "העברת מחלה",
+      "research_status": "סוכם לעומק; 瘖乎其无声 — היעדר קול, לא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 43,
+      "title_zh": "淫邪发梦",
+      "title_he": "צ'י פתוגני וחלומות",
+      "research_status": "סוכם לעומק; חלומות/רגשות, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 44,
+      "title_zh": "顺气一日分为四时",
+      "title_he": "חלוקת היום לארבע עונות לפי הצ'י",
+      "research_status": "סוכם לעומק; 五色/五味 קוסמולוגיים, לא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 45,
+      "title_zh": "外揣",
+      "title_he": "הסקה מן החוץ",
+      "research_status": "סוכם לעומק; עיקרון תצפית חיצונית, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 46,
+      "title_zh": "五变",
+      "title_he": "חמשת השינויים",
+      "research_status": "סוכם לעומק; מבנה גוף ונטייה למחלה, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 47,
+      "title_zh": "本藏",
+      "title_he": "האיברים הפנימיים הבסיסיים",
+      "research_status": "סוכם לעומק; סימני שפתיים למבנה הטחול",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 48,
+      "title_zh": "禁服",
+      "title_he": "איסורים והנחיות טיפול",
+      "research_status": "סוכם לעומק; דופק ומסלולים, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 49,
+      "title_zh": "五色",
+      "title_he": "חמשת הצבעים",
+      "research_status": "סוכם לעומק; צבעי פנים, לא צבעי לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 50,
+      "title_zh": "论勇",
+      "title_he": "דיון באומץ",
+      "research_status": "סוכם לעומק; מבנה גוף/צבע פנים, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 51,
+      "title_zh": "背腧",
+      "title_he": "נקודות Shu בגב",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 52,
+      "title_zh": "卫气",
+      "title_he": "הצ'י ההגנתי",
+      "research_status": "סוכם לעומק; 舌下两脉 ו־舌本 כמיקומים מסלוליים",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 53,
+      "title_zh": "论痛",
+      "title_he": "דיון בכאב",
+      "research_status": "סוכם לעומק; סבילות לכאב, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 54,
+      "title_zh": "天年",
+      "title_he": "שנות החיים",
+      "research_status": "סוכם לעומק; הזדקנות ופנים, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 55,
+      "title_zh": "逆顺",
+      "title_he": "זרימה הפוכה וישרה",
+      "research_status": "סוכם לעומק; עיתוי דיקור, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 56,
+      "title_zh": "五味",
+      "title_he": "חמשת הטעמים",
+      "research_status": "סוכם לעומק; תורת טעמים/תזונה, ללא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 57,
+      "title_zh": "水胀",
+      "title_he": "בצקות ונפיחות מים",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 58,
+      "title_zh": "贼风",
+      "title_he": "רוחות מזיקות",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 59,
+      "title_zh": "卫气失常",
+      "title_he": "הפרעה בצ'י ההגנתי",
+      "research_status": "סוכם לעומק; 唇色 — צבע שפתיים, לא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 60,
+      "title_zh": "玉版",
+      "title_he": "לוח הירקן",
+      "research_status": "סוכם לעומק; 音嘶色脱 — צרידות ושינוי צבע",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 61,
+      "title_zh": "五禁",
+      "title_he": "חמשת האיסורים",
+      "research_status": "סוכם לעומק; 廉泉 כאזור גרון, לא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 62,
+      "title_zh": "动输",
+      "title_he": "תנועה והובלה",
+      "research_status": "סוכם לעומק; מסלול דרך הגרון, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 63,
+      "title_zh": "五味论",
+      "title_he": "דיון בחמשת הטעמים",
+      "research_status": "סוכם לעומק; 舌本干 עקב עודף מלוח",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 64,
+      "title_zh": "阴阳二十五人",
+      "title_he": "עשרים וחמישה טיפוסי יין ויאנג",
+      "research_status": "סוכם לעומק; צבעי גוף/פנים, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 65,
+      "title_zh": "五音五味",
+      "title_he": "חמשת הצלילים וחמשת הטעמים",
+      "research_status": "סוכם לעומק; 唇口不荣 — שפתיים/פה, לא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 66,
+      "title_zh": "百病始生",
+      "title_he": "תחילת היווצרותן של מאה מחלות",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 67,
+      "title_zh": "行针",
+      "title_he": "ביצוע הדיקור",
+      "research_status": "סוכם לעומק; דיבור/תגובות לדיקור, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 68,
+      "title_zh": "上膈",
+      "title_he": "חסימה מעל הסרעפת",
+      "research_status": "סוכם לעומק; הפרעות מעבר מזון, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 69,
+      "title_zh": "忧恚无言",
+      "title_he": "צער וכעס ואובדן הדיבור",
+      "research_status": "סוכם לעומק; 舌者声音之机 — הלשון ומנגנון הקול",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 70,
+      "title_zh": "寒热",
+      "title_he": "קור וחום",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 71,
+      "title_zh": "邪客",
+      "title_he": "חדירת צ'י פתוגני",
+      "research_status": "סוכם לעומק; 九窍 כללי, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 72,
+      "title_zh": "通天",
+      "title_he": "תקשורת עם השמים",
+      "research_status": "סוכם לעומק; טיפוסי גוף, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 73,
+      "title_zh": "官能",
+      "title_he": "יכולות ותפקידי המטפל",
+      "research_status": "סוכם לעומק; דיבור/תפקידי מטפל, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 74,
+      "title_zh": "论疾诊尺",
+      "title_he": "אבחון מחלה באמצעות אזור צ'י",
+      "research_status": "סוכם לעומק; עור/עיניים/שיניים, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 75,
+      "title_zh": "刺节真邪",
+      "title_he": "עקרונות דיקור, צ'י אמיתי ופתוגני",
+      "research_status": "סוכם לעומק; 舌焦 ו־唇槁 — יובש לשון ושפתיים",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 76,
+      "title_zh": "卫气行",
+      "title_he": "תנועת הצ'י ההגנתי",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 77,
+      "title_zh": "九宫八风",
+      "title_he": "תשעת הארמונות ושמונה הרוחות",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 78,
+      "title_zh": "九针论",
+      "title_he": "דיון בתשע המחטים",
+      "research_status": "סוכם לעומק; 口/唾/五味, ללא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 79,
+      "title_zh": "岁露论",
+      "title_he": "חשיפה עונתית/שנתית",
+      "research_status": "סוכם לעומק; לא נמצא סימן לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 80,
+      "title_zh": "大惑论",
+      "title_he": "בלבול גדול",
+      "research_status": "סוכם לעומק; עיניים/מוח/שינה, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    },
+    {
+      "book": "lingshu",
+      "number": 81,
+      "title_zh": "痈疽",
+      "title_he": "מורסות ופצעים מוגלתיים",
+      "research_status": "סוכם לעומק; מורסות לוע/גרון, ללא לשון",
+      "summary_path": "02-lingshu/81-chapter-summaries.md",
+      "deep_analysis_index": "02-lingshu/README.md"
+    }
+  ],
+  "methodology": {
+    "evidence_layers": [
+      "classical_text",
+      "traditional_commentary",
+      "modern_research",
+      "clinical_validation"
+    ],
+    "confidence_labels": [
+      "verified_in_primary_text",
+      "working_translation",
+      "secondary_reference",
+      "needs_collation"
+    ],
+    "safety": "Educational research database; not a standalone medical diagnosis or treatment system."
+  }
+}
