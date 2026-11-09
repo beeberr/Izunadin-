@@ -49,3 +49,5 @@
 - [מחקר עומק — פרקים 41–44](11-deep-analysis-chapters-41-44.md)
 
 - [מחקר עומק — פרקים 45–48](12-deep-analysis-chapters-45-48.md)
+
+- [מחקר עומק — פרקים 49–52](13-deep-analysis-chapters-49-52.md)
