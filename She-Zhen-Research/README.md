@@ -13,6 +13,7 @@
 - [סקירת ספרות שיטתית — פרוטוקול ומפת ראיות ראשונית](06-clinical-research/02-systematic-literature-review-protocol-and-evidence-map.md)
 - [מסגרת מושגית למחקר — TCM תחילה, מדידה מודרנית כתמיכה ואבחון לשון דינמי](06-clinical-research/03-tcm-first-conceptual-framework-and-dynamic-tongue-research.md)
 - [פרוטוקול הדמיה משולבת — צילום רגיל, וידאו ותרמוגרפיה](06-clinical-research/04-multimodal-video-and-thermal-tongue-imaging-protocol.md)
+- [העמקה מחקרית בתרמוגרפיה אינפרא-אדומה של הלשון ב-TCM](06-clinical-research/05-deep-review-infrared-thermography-tcm-tongue.md)
 
 ההשלמה מתייחסת לסיכומי עומק ראשוניים ולסריקה ראשונית של מונחים. היא **אינה** מהדורה ביקורתית, אינה קולציה מלאה של כתבי יד/עדים, ואינה אישור שכל פרשנות או תרגום סופיים. שלב ההמשך הוא בדיקת נוסחים ופרשנים, ארגון קטלוג סימנים מובנה והצלבה שיטתית עם מחקר מודרני.
 
