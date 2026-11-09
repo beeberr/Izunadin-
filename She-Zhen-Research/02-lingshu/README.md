@@ -41,3 +41,5 @@
 - [מחקר עומק — פרקים 25–28](07-deep-analysis-chapters-25-28.md)
 
 - [מחקר עומק — פרקים 29–32](08-deep-analysis-chapters-29-32.md)
+
+- [מחקר עומק — פרקים 33–36](09-deep-analysis-chapters-33-36.md)
