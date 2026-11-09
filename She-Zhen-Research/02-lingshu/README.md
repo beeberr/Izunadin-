@@ -37,3 +37,5 @@
 - [מחקר עומק — פרקים 17–20](05-deep-analysis-chapters-17-20.md)
 
 - [מחקר עומק — פרקים 21–24](06-deep-analysis-chapters-21-24.md)
+
+- [מחקר עומק — פרקים 25–28](07-deep-analysis-chapters-25-28.md)
