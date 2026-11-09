@@ -53,3 +53,5 @@
 - [מחקר עומק — פרקים 49–52](13-deep-analysis-chapters-49-52.md)
 
 - [מחקר עומק — פרקים 53–56](14-deep-analysis-chapters-53-56.md)
+
+- [מחקר עומק — פרקים 57–60](15-deep-analysis-chapters-57-60.md)
