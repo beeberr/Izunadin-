@@ -1,0 +1,235 @@
+{
+  "title": "קטלוג ממצאי לשון ישירים בהואנגדי נייג'ינג",
+  "version": "1.0",
+  "updated": "2026-11-09",
+  "methodology": {
+    "corpus": [
+      "סו־ון (素问)",
+      "לינג־שו (灵枢)"
+    ],
+    "count": 11,
+    "note": "קטלוג עבודה המבוסס על מיפוי הפרקים הקיים במאגר ועל נוסחים דיגיטליים. התרגומים הם תרגומי עבודה; נדרשת קולציה מול מהדורות ופרשנים לפני קביעה טקסטואלית סופית.",
+    "evidence_rules": [
+      "אזכור של מסלול מרידיאן אינו מסווג כממצא חזותי.",
+      "תפקוד טעם או דיבור אינו מסווג כשינוי במראה הלשון.",
+      "סימן חזותי נרשם רק כאשר הטקסט מתאר במפורש צבע, צורה או מבנה של הלשון.",
+      "תיאור טיפול היסטורי אינו הוראה קלינית מודרנית."
+    ]
+  },
+  "categories": {
+    "sensory": "חישה וטעם",
+    "pathway": "מסלול מרידיאן ומיקום",
+    "functional": "תפקוד, דיבור ותנועה",
+    "symptom": "תסמין מורגש",
+    "visual": "ממצא חזותי או מבני"
+  },
+  "findings": [
+    {
+      "id": "SW-04",
+      "text": "סו־ון",
+      "chapter": 4,
+      "title_zh": "金匮真言论",
+      "category": [
+        "pathway"
+      ],
+      "quote_zh": "中央黃色，入通於脾，開竅於口，藏精於脾，故病在舌本。",
+      "translation_he": "הצהוב של המרכז מתקשר לטחול; הטקסט מציין מחלה בשורש הלשון.",
+      "interpretation": "אזכור ישיר של 舌本 בתוך מערכת הקבלות צבע–כיוון–איבר. אין להסיק ממנו לבדו מפת אזורי לשון מודרנית או אבחנה אוטומטית של הטחול.",
+      "visual_finding": false,
+      "confidence": "בינונית",
+      "source": "https://ctext.org/huangdi-neijing/jin-gui-zhen-yan-lun/ens",
+      "review_needed": "השוואת נוסח ופרשנויות למונח 舌本."
+    },
+    {
+      "id": "SW-05",
+      "text": "סו־ון",
+      "chapter": 5,
+      "title_zh": "阴阳应象大论",
+      "category": [
+        "sensory",
+        "functional"
+      ],
+      "quote_zh": "心主舌……在竅為舌，在味為苦。",
+      "translation_he": "הלב שולט בלשון; הלשון משויכת לפתח החישה ולטעם המר.",
+      "interpretation": "קשר לב–לשון במסגרת חמש הפאזות וההקבלות. מדובר במודל רפואי קלאסי ולא בטענה אנטומית מודרנית או בסימן חזותי.",
+      "visual_finding": false,
+      "confidence": "בינונית",
+      "source": "https://ctext.org/huangdi-neijing/yin-yang-ying-xiang-da-lun/zhs",
+      "review_needed": "לקרוא את רצף חמשת הכיוונים וההקבלות במלואו."
+    },
+    {
+      "id": "SW-32",
+      "text": "סו־ון",
+      "chapter": 32,
+      "title_zh": "刺热论",
+      "category": [
+        "visual"
+      ],
+      "quote_zh": "肺熱病者……舌上黃，身熱。",
+      "translation_he": "במחלת חום של הריאות מתואר צהוב על הלשון לצד חום הגוף.",
+      "interpretation": "ממצא חזותי ישיר של צבע/חומר צהוב על הלשון בהקשר של מחלת חום. הקטע אינו מפרט אזור, עובי, לחות או גבולות של הציפוי; אין להשליך עליו אוטומטית הגדרות מאוחרות.",
+      "visual_finding": true,
+      "confidence": "בינונית",
+      "source": "https://ctext.org/huangdi-neijing/ci-re/ens",
+      "review_needed": "בירור 舌上黃 מול פרשני סו־ון ומהדורות נוספות."
+    },
+    {
+      "id": "SW-47",
+      "text": "סו־ון",
+      "chapter": 47,
+      "title_zh": "奇病论",
+      "category": [
+        "pathway",
+        "functional"
+      ],
+      "quote_zh": "胞絡者系於腎，少陰之脈，貫腎系舌本，故不能言。",
+      "translation_he": "הטקסט קושר את מסלול שאויִין דרך הכליות לשורש הלשון ומסביר בכך הפרעת דיבור בהקשר של היריון.",
+      "interpretation": "קשר מסלולי ותפקודי לדיבור, לא אבחון חזותי של הלשון. יש להבחין בין הפרעת דיבור/קול לבין מחלה מבנית בלשון.",
+      "visual_finding": false,
+      "confidence": "בינונית",
+      "source": "https://ctext.org/huangdi-neijing/qi-bing-lun/ens",
+      "review_needed": "בדיקת משמעות המונחים 喑 ו־胞络 בפרשנויות."
+    },
+    {
+      "id": "LS-09",
+      "text": "לינג־שו",
+      "chapter": 9,
+      "title_zh": "终始",
+      "category": [
+        "visual",
+        "functional"
+      ],
+      "quote_zh": "重舌，刺舌柱以鈹鍼也。",
+      "translation_he": "מתואר מצב המכונה 重舌 וטיפול היסטורי באזור בסיס/עמוד הלשון.",
+      "interpretation": "תיאור מבני/קליני היסטורי. אין להשתמש בהוראת הדיקור או החיתוך כהנחיה טיפולית כיום; המונח 重舌 דורש בירור פילולוגי.",
+      "visual_finding": true,
+      "confidence": "נמוכה-בינונית",
+      "source": "https://ctext.org/huangdi-neijing/zhong-shi/ens",
+      "review_needed": "בירור 重舌 ו־舌柱 מול מהדורות ופרשנים; להוסיף אזהרה מפורשת מפני יישום טיפולי."
+    },
+    {
+      "id": "LS-10",
+      "text": "לינג־שו",
+      "chapter": 10,
+      "title_zh": "经脉",
+      "category": [
+        "pathway",
+        "symptom"
+      ],
+      "quote_zh": "上膈，挟咽，连舌本，散舌下。",
+      "translation_he": "מסלול הטחול עובר לצד הגרון, מתחבר לשורש הלשון ומתפשט מתחת ללשון.",
+      "additional_quote_zh": "是动则病舌本强……舌本痛",
+      "interpretation": "מקור מרכזי למסלול ולתסמיני נוקשות וכאב בשורש הלשון. אינו מתאר צבע או חיפוי. יש להפריד בין 舌本 לבין 舌下.",
+      "visual_finding": false,
+      "confidence": "בינונית",
+      "source": "https://ctext.org/huangdi-neijing/jing-mai/ens",
+      "review_needed": "אימות רצף המסלול וההבחנה בין 舌本/舌下."
+    },
+    {
+      "id": "LS-11",
+      "text": "לינג־שו",
+      "chapter": 11,
+      "title_zh": "经别",
+      "category": [
+        "pathway"
+      ],
+      "quote_zh": "足太陰之正……上結於咽，貫舌中。",
+      "translation_he": "המסלול הנפרד של טאי־יין עולה לגרון ועובר דרך מרכז הלשון.",
+      "interpretation": "עדות למסלול מסורתי העובר דרך הלשון; אין כאן סימן אבחוני חזותי.",
+      "visual_finding": false,
+      "confidence": "בינונית",
+      "source": "https://ctext.org/huangdi-neijing/jing-bie/zhs",
+      "review_needed": "השוואה למסלול המתואר בלינג־שו 10."
+    },
+    {
+      "id": "LS-17",
+      "text": "לינג־שו",
+      "chapter": 17,
+      "title_zh": "脉度",
+      "category": [
+        "sensory"
+      ],
+      "quote_zh": "心氣通於舌，心和則舌能知五味矣。",
+      "translation_he": "צ'י הלב מתקשר ללשון; בהרמוניה הלשון יכולה להבחין בחמשת הטעמים.",
+      "interpretation": "מקור תפקודי לחישת הטעם. אין מדובר בצבע, צורה או חיפוי לשון.",
+      "visual_finding": false,
+      "confidence": "בינונית",
+      "source": "https://ctext.org/huangdi-neijing/mai-du/ens",
+      "review_needed": "השוואה לסו־ון 5 ולפרשנויות על 心气通于舌."
+    },
+    {
+      "id": "LS-28",
+      "text": "לינג־שו",
+      "chapter": 28,
+      "title_zh": "口问",
+      "category": [
+        "functional",
+        "symptom"
+      ],
+      "quote_zh": "人之自齧舌者……少陰氣至則齧舌，少陽氣至則齧頰，陽明氣至則齧唇矣。",
+      "translation_he": "נשיכת הלשון, הלחי או השפה מוסברת בפרק באמצעות תנועת הצ'י במסלולים שונים.",
+      "interpretation": "תיאור תסמין ומנגנון מסורתי; אין להציגו כהסבר נוירולוגי מוכח או כממצא חזותי של הלשון.",
+      "visual_finding": false,
+      "confidence": "בינונית",
+      "source": "https://ctext.org/huangdi-neijing/kou-wen/ens",
+      "review_needed": "בדיקת ההקשר המלא והפרשנויות למנגנון 自齧舌."
+    },
+    {
+      "id": "LS-37",
+      "text": "לינג־שו",
+      "chapter": 37,
+      "title_zh": "五阅五使",
+      "category": [
+        "visual",
+        "functional"
+      ],
+      "quote_zh": "舌者，心之官也。",
+      "additional_quote_zh": "心病者，舌卷短，顴赤。",
+      "translation_he": "הלשון מתוארת כנציג/איבר של הלב; במחלת לב מתוארת לשון מכווצת או מגולגלת ומקוצרת, לצד אודם בלחיים.",
+      "interpretation": "תיאור מבני של הלשון. האודם מתייחס ללחיים (顴), לא ללשון; אין להעבירו בטעות לתיאור צבע הלשון.",
+      "visual_finding": true,
+      "confidence": "בינונית",
+      "source": "https://ctext.org/huangdi-neijing/wu-yue-wu-shi",
+      "review_needed": "בירור משמעות 舌卷短 ו־官 מול פרשנים."
+    },
+    {
+      "id": "LS-69",
+      "text": "לינג־שו",
+      "chapter": 69,
+      "title_zh": "忧恚无言",
+      "category": [
+        "functional"
+      ],
+      "quote_zh": "口唇者，声音之扇也。舌者，声音之机也。",
+      "translation_he": "השפתיים מתוארות כשער/מניפה של הקול והלשון כמנגנון המפעיל את הקול.",
+      "interpretation": "מקור להבנת תפקוד הלשון בהפקת קול ודיבור; אינו פרק של אבחון חזותי.",
+      "visual_finding": false,
+      "confidence": "בינונית",
+      "source": "https://ctext.org/huangdi-neijing/you-hui-wu-yan/ens",
+      "review_needed": "השוואת המונחים 声音之机 לפרשנויות מסורתיות."
+    }
+  ],
+  "synthesis": {
+    "visual_chapters": [
+      "סו־ון 32",
+      "לינג־שו 9",
+      "לינג־שו 37"
+    ],
+    "key_pathway_chapters": [
+      "סו־ון 4",
+      "סו־ון 47",
+      "לינג־שו 10",
+      "לינג־שו 11"
+    ],
+    "sensory_chapters": [
+      "סו־ון 5",
+      "לינג־שו 17"
+    ],
+    "functional_chapters": [
+      "סו־ון 47",
+      "לינג־שו 28",
+      "לינג־שו 69"
+    ],
+    "caution": "הקטלוג אינו מוכיח שקיימת בנייג'ינג מערכת אבחון חזותית מלאה של צבע, צורה, חיפוי ולחות לפי אזורי הלשון. חלק ניכר מהאזכורים עוסק במסלולים, חישה, דיבור או תסמינים."
+  }
+}
