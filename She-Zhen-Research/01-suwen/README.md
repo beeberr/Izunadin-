@@ -120,3 +120,5 @@
 - [מחקר עומק — פרקים 64–67](17-deep-analysis-chapters-64-67.md)
 
 - [מחקר עומק — פרקים 68–71](18-deep-analysis-chapters-68-71.md)
+
+- [מחקר עומק — פרקים 72–75](19-deep-analysis-chapters-72-75.md)
