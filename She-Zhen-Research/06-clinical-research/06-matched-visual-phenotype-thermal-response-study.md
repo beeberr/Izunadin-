@@ -205,3 +205,8 @@
 9. Lin H et al. 2025. Computerized tongue image analysis for non-invasive disease screening: a review. https://doi.org/10.1186/s13020-025-01242-7
 
 ---
+
+
+## עדכון מחקרי בעקבות מקורות נוספים
+
+מחקרים חדשים שאותרו מצביעים על כך שתגובה תרמית דינמית עשויה להיות קשורה לפרפוזיה ולמצב קליני גם כאשר טמפרטורת הבסיס אינה מבחינה היטב. Xie & Zhang (2018) שילבו IRT דינמי ו-Laser Doppler ב-62 חולי אנמיה ו-70 ביקורת; Jezierska et al. (2026) בדקו 10 חולי SLE ו-106 ביקורת לאחר קירור. אלה אינם מחקרי TCM ואינם מוכיחים ערך אבחוני סיני, אך מחזקים את ההצדקה לבדוק עקומות התאוששות. יש להבחין בין מבחן פתיחת פה/חשיפה לאוויר לבין מבחן קירור מבוקר, ולתעד לחות, נשימה, emissivity ומשך חשיפה. פירוט מלא: [08-dynamic-thermography-perfusion-and-measurement-validity.md](08-dynamic-thermography-perfusion-and-measurement-validity.md).
