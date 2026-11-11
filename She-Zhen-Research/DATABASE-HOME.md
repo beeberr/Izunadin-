@@ -35,3 +35,5 @@
 
 ## שימוש
 פתחו את הקובץ הזה כעמוד הבית של המאגר. הקטלוג JSON מתאים גם לטעינה עתידית לשרת, למסד נתונים או למנוע חיפוש.
+
+- [First photo analysis worksheet v0.1](06-clinical-research/11-first-photo-analysis-worksheet-v0.1.md) — structured, non-diagnostic visual annotation and quality review.
