@@ -9,6 +9,9 @@
 
 ## ניווט מהיר
 
+- [תכנית הרחבת תשתית המחקר ושילוב ארבעת מקורות הנתונים](06-clinical-research/09-integrated-datasets-and-research-foundation-v1.md)
+- [פרוטוקול ניסוי צילום לשון ראשוני v0.1](06-clinical-research/10-initial-tongue-photo-pilot-protocol-v0.1.md)
+
 - [קטלוג מובנה של 11 ממצאי לשון ישירים — JSON](database/direct-tongue-findings.json)
 - [מפתח כל 162 הפרקים](00-chapter-index.md)
 - [קטלוג מובנה בפורמט JSON — 162 רשומות](database/chapter-catalog.json)
